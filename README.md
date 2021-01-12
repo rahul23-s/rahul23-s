@@ -1,5 +1,5 @@
 <h1 align="center">Hey🤘, I'm Rahul! </h1>
-<h3 align="center">A passionate Developer and open-source enthusiast✨</h3>
+<h3 align="center">A passionate Developer✨</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rahul-sharma-3bb4451b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rahul Sharma" height="30" width="30" /></a>
