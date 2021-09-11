@@ -10,7 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul23-s" alt="rahul23-s" /> </p>
 
 
-- 💻 Languages i know **C/C++, Java, Javascript & Python** AND working with **MERN** stack.
+- 💻 Languages i know **C++, Java, Javascript & Python** AND working with **MERN** stack.
+
+- 🤖 Love to Work with **ReactJS**
 
 - 💬 Ask me about **Anything , Would love to help**
 
