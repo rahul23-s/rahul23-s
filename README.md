@@ -1,5 +1,5 @@
 <h1 align="center">Hey🤘, I'm Rahul! </h1>
-<h3 align="center">MERN Developer✨</h3>
+<h3 align="center">Frontend Developer✨</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rahul-sharma-3bb4451b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rahul Sharma" height="30" width="30" /></a>
@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul23-s" alt="rahul23-s" /> </p>
 
 
-- 💻 Languages i know **C++, Java, Javascript & Python** AND working with **MERN** stack.
+- 💻 Languages i know **C++, Java, Javascript & Python** AND Learning with **ThreeJS** 
 
 - 🤖 Love to Work with **ReactJS**
 
-- 💬 Ask me about **Anything , Would love to help**
+- 💬 Ask me about **Anything Frontend , Would love to help**
 
 - 📫 Reach Me At **rahul23shrm@gmail.com**
 
