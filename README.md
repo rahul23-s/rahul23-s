@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul23-s" alt="rahul23-s" /> </p>
 
 
-- 💻 Languages i know **C++, Java, Javascript & Python** AND Learning with **ThreeJS** 
+- 💻 Languages i know **C++, Java, Javascript & Python** AND Learning **ThreeJS** 
 
 - 🤖 Love to Work with **ReactJS**
 
